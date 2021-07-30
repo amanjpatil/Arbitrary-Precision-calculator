@@ -1,7 +1,7 @@
 OBJS	= infix.o function.o main1.o number.o stack.o
 SOURCE	= infix.c function.c main1.c number.c stack.c
 HEADER	= infix.h function.h number.h stack.h
-OUT	= 
+OUT	= project
 CC	 = gcc
 FLAGS	 = -g -c -Wall
 LFLAGS	 = 
