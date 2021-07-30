@@ -3,7 +3,7 @@
 
 # DESCRIPTION :-
 - This is the Command line Arbitrary precision calculator which is implemented using C Programming language.
-- It tries to implement some functionalities from unix based command 'bc'.
+- I have tried to implement some integer functions of unix based command 'bc'.
 
 -------
 
